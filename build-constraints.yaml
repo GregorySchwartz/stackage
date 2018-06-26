@@ -2229,6 +2229,7 @@ packages:
         - find-clumpiness
         - blosum < 0 # GHC 8.4 via pipes-text
         - rank-product < 0 # GHC 8.4 via random-fu
+        - integreat
 
     "Simon Marechal <bartavelle@gmail.com> @bartavelle":
         - compactmap
