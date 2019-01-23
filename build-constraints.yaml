@@ -2365,7 +2365,7 @@ packages:
     "Jinjing Wang <nfjinjing@gmail.com> @nfjinjing":
         - moesocks < 0
 
-    "Gregory W. Schwartz <gregory.schwartz@drexel.edu> @GregorySchwartz":
+    "Gregory W. Schwartz <gsch@pennmedicine.upenn.edu> @GregorySchwartz":
         - diversity < 0 # via fasta
         - fasta < 0 # GHC 8.4 via pipes-text
         - modify-fasta < 0 # GHC 8.4 via pipes-text
@@ -2375,6 +2375,11 @@ packages:
         - find-clumpiness < 0
         - blosum < 0 # GHC 8.4 via pipes-text
         - rank-product < 0 # GHC 8.4 via random-fu
+        - modularity
+        - spectral-clustering
+        - hierarchical-spectral-clustering
+        - birch-beer
+        - too-many-cells
 
     "Simon Marechal <bartavelle@gmail.com> @bartavelle":
         - compactmap
